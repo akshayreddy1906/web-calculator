@@ -69,10 +69,10 @@ button:hover {
   }
 }
 .operator {
-  background-color: #13B783 ;/* Bright blue */
+  background-color: #13B783 ;
   color: #273343;
 }
 
 .operator:hover {
-  background-color: #15CB92; /* Lighter blue */
+  background-color: #15CB92; 
 }
